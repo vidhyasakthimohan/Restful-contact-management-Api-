@@ -1,2 +1,1 @@
-# Restful-contact-management-Api-
-Contact management 
+The RESTful Contact Management API is a web-based application that allows users to manage contact information efficiently using standard REST principles. It supports operations like adding, viewing, updating, and deleting contacts through HTTP methods (GET, POST, PUT, DELETE). Built with a modular structure, this API enables seamless integration with front-end applications, ensuring secure and efficient data handling using JSON format.
